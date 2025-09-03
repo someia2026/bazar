@@ -1,1 +1,3 @@
 # bazar
+
+Attention : repo collaboratif ! 
